@@ -8,9 +8,13 @@
 ## Contents
 
 - [SOAR-Solutions](SOAR-Solutions)
+- [Incident-Categories](Incident-Categories)
 - [Process-Resources](#Process-Resources)
 - [Playbooks-Resources](#Playbooks-Resources)
 - [Automation-Resources](#Automation-Resources)
+- [User-Communities](#User-Communities)
+- [Articles](#Articles)
+- [Presentations](#Presentations)
 
 ## SOAR-Solutions
 
@@ -26,6 +30,11 @@ List of SOAR Solutions
 - [The Hive](https://thehive-project.org)
 - [List item](http://example.com)
 
+## Incident-Categories
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
 ## Process-Resources
 
 - [List item](http://example.com)
@@ -37,6 +46,21 @@ List of SOAR Solutions
 - [List item](http://example.com)
 
 ## Automation-Resources
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+## User-Communities
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+## Articles
+
+- [An OODA-driven SOC Strategy using: SIEM, SOAR and EDR](http://correlatedsecurity.com/an-ooda-driven-soc-strategy-using-siem-soar-edr/)
+- [Why a mature SIEM environment is critical for SOAR implementation](http://correlatedsecurity.com/soar-critical-success-factors/)
+
+## Presentations
 
 - [List item](http://example.com)
 - [List item](http://example.com)
