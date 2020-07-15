@@ -25,6 +25,7 @@
 - [Splunk Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html)
 - [Siemplify](https://www.siemplify.co/)
 - [Swimlane](https://swimlane.com/)
+- [Rapid7 InsightConnect](https://www.rapid7.com/products/insightconnect/)
 
 #### Open-Source
 - [The Hive](https://thehive-project.org)
