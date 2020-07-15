@@ -1,6 +1,6 @@
 # Awesome-SOAR List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated Cyber "Security Orchestration, Automation and Response (SOAR)" awesome list.
+> A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
 
 
 ## Contents
