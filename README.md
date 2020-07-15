@@ -15,6 +15,7 @@
 - [User-Communities](#User-Communities)
 - [Articles](#Articles)
 - [Presentations](#Presentations)
+- [Training](#Training)
 
 ## SOAR-Solutions
 
@@ -63,6 +64,11 @@ List of SOAR Solutions
 ## Presentations
 
 - [List item](http://example.com)
+- [List item](http://example.com)
+
+## Training
+
+- [SANS SEC573: Automating Information Security with Python](https://www.sans.org/course/automating-information-security-with-python)
 - [List item](http://example.com)
 
 ## Contribute
