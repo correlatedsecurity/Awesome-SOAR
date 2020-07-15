@@ -16,12 +16,12 @@
 
 List of SOAR Solutions
 
-### Commercial
+#### Commercial
 - [Cortex XSOAR (Previously Demisto)](https://www.demisto.com/)
 - [IBM Resilient](https://www.ibm.com/my-en/marketplace/resilient-soar-platform)
 - [Splunk Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html)
 
-### Open-Source
+#### Open-Source
 
 - [The Hive](https://thehive-project.org)
 - [List item](http://example.com)
