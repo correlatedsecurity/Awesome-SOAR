@@ -63,7 +63,7 @@ List of SOAR Solutions
 
 ## Presentations
 
-- [List item](http://example.com)
+- [SOAR Telegram Group](http://t.me/CSOAR)
 - [List item](http://example.com)
 
 ## Training
