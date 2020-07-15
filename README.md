@@ -7,25 +7,39 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [SOAR-Solutions](SOAR-Solutions)
+- [Process-Resources](#Process-Resources)
+- [Playbooks-Resources](#Playbooks-Resources)
+- [Automation-Resources](#Automation-Resources)
 
+## SOAR-Solutions
 
-## Section
+List of SOAR Solutions
 
-About this section. Optional. Keep this short and focus on the list.
+### Commercial
+- [Cortex XSOAR (Previously Demisto)](https://www.demisto.com/)
+- [IBM Resilient](https://www.ibm.com/my-en/marketplace/resilient-soar-platform)
+- [Splunk Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html)
+
+### Open-Source
+
+- [The Hive](https://thehive-project.org)
+- [List item](http://example.com)
+
+## Process-Resources
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
-
-## Another Section
-
-### Subsection
+## Playbooks-Resources
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+## Automation-Resources
+
+- [List item](http://example.com)
+- [List item](http://example.com)
 
 ## Contribute
 
