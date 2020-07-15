@@ -2,6 +2,8 @@
 
 > A curated Cyber "Security Orchestration, Automation and Response (SOAR)" resources list.
 
+>"SOAR refers to technologies that enable organizations to collect inputs monitored by the security operations team. For example, alerts from the SIEM system and other security technologies — where incident analysis and triage can be performed by leveraging a combination of human and machine power — help define, prioritize and drive standardized incident response activities. SOAR tools allow an organization to define incident analysis and response procedures in a digital workflow format." - [Gartner](https://www.gartner.com/en/information-technology/glossary/security-orchestration-automation-response-soar)
+
 
 ## Contents
 
