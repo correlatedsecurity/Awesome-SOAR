@@ -53,7 +53,7 @@ List of SOAR Solutions
 
 ## User-Communities
 
-- [List item](http://example.com)
+- [SOAR Telegram Group](http://t.me/CSOAR)
 - [List item](http://example.com)
 
 ## Articles
@@ -63,7 +63,7 @@ List of SOAR Solutions
 
 ## Presentations
 
-- [SOAR Telegram Group](http://t.me/CSOAR)
+- [List item](http://example.com)
 - [List item](http://example.com)
 
 ## Training
