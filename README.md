@@ -20,9 +20,11 @@
 ## SOAR-Solutions
 
 #### Commercial
-- [Cortex XSOAR (Previously Demisto)](https://www.demisto.com/)
+- [Cortex XSOAR](https://www.demisto.com/) - Previously Demisto, now with Palo Alto Networks
 - [IBM Resilient](https://www.ibm.com/my-en/marketplace/resilient-soar-platform)
 - [Splunk Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html)
+- [Siemplify](https://www.siemplify.co/)
+- [Swimlane](https://swimlane.com/)
 
 #### Open-Source
 - [The Hive](https://thehive-project.org)
