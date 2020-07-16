@@ -99,6 +99,7 @@
 - [Hacking your SOEL: SOC Automation and Orchestration – SANS Security Operations Summit 2018 - SLIDES](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1532986430.pdf)
 - [Leveraging TheHive & Cortex for automated IR](https://www.youtube.com/watch?v=K6K1fNpbf9w)
 - [Cloud Security Automation: From Infrastructure to App | SANS Cloud Security Summit 2019](https://www.youtube.com/watch?v=3IAOSWHCGQo)
+- [SANS Webcast: Automating Information Security with Python](https://www.youtube.com/watch?v=MaeL50iO26s)
 
 ## Training
 
