@@ -37,7 +37,7 @@
 - [DFLabs IncMan SOAR](https://www.dflabs.com/platform/incman-soar/)
 - [Resolve SOAR](https://resolve.io/solutions/security-automation-and-orchestration)
 - [ServiceNow SecOps](https://www.servicenow.com/products/security-operations.html)
-- [Syncurity IR Flow](https://www.syncurity.net/ir-flow-platform/security-automation-orchestration/)
+- [Syncurity IR Flow](https://www.syncurity.net/ir-flow-platform/security-automation-orchestration/) - Syncurity is now acquired by Swimlane
 - [SIRP SOAR](https://www.sirp.io/overview/)
 
 #### Open-Source
