@@ -39,6 +39,7 @@
 - [ServiceNow SecOps](https://www.servicenow.com/products/security-operations.html)
 - [Syncurity IR Flow](https://www.syncurity.net/ir-flow-platform/security-automation-orchestration/) - Syncurity is now acquired by Swimlane
 - [SIRP SOAR](https://www.sirp.io/overview/)
+- [Microsoft Azure Sentinel](https://azure.microsoft.com/en-us/services/azure-sentinel/) - Logic Apps used as SOAR Functionality
 
 #### Open-Source
 - [The Hive](https://thehive-project.org)
@@ -68,11 +69,12 @@
 - [Top 5 Playbooks by Ayehu](https://ayehu.com/cyber-security-incident-response-automation/top-5-cyber-security-incident-response-playbooks/)
 - [Playbooks by Societe Generale](https://github.com/certsocietegenerale/IRM/tree/master/EN)
 - [Playbooks by guardsight](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards)
-- [AWS Cloud specific runbooks](https://github.com/aws-samples/aws-incident-response-runbooks/tree/master/runbooks)
+- [Playbooks (cloud) by AWS](https://github.com/aws-samples/aws-incident-response-runbooks/tree/master/runbooks)
 
 ## Workflow-Resources
 - [Playbooks by Phantom](https://github.com/phantomcyber/playbooks)
 - [Playbooks Components by Rapid7](https://github.com/rapid7/insightconnect-workflows/tree/master/workflows)
+- [Playbooks components by Microsoft Azure Sentinel](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
 
 ## Automation-Resources
 
