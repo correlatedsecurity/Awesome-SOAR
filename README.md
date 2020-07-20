@@ -93,7 +93,7 @@
 - [Gartner Market Guide for SOAR Solutions 2019](https://www.gartner.com/en/documents/3942064/market-guide-for-security-orchestration-automation-and-r)
 - [DFLABS Enterprise SOAR Buyers Guide 2019](https://www.infosecurityeurope.com/__novadocuments/591196?v=636930948744900000)
 - [Top 10 SOAR Solutions for 2019](https://www.em360tech.com/continuity/tech-features-featuredtech-news/top-10-soar-platforms/)
-- https://www.g2.com/categories/security-orchestration-automation-and-response-soar
+- [Top Reviewed SOAR's on G2](https://www.g2.com/categories/security-orchestration-automation-and-response-soar)
 - [SOAR Vendor comparison](https://www.itcentralstation.com/categories/security-orchestration-automation-and-response-soar)
 - [The 8 Best SOAR Security Companies for 2020](https://solutionsreview.com/security-information-event-management/the-8-best-soar-security-companies/)
 
