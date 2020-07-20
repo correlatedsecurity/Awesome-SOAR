@@ -87,9 +87,18 @@
 - [SOAR Telegram Group](http://t.me/CSOAR)
 - [List item](http://example.com)
 
+## Market-Research
+
+- [State of SOAR Report 2019](https://go.demisto.com/hubfs/Resources/2019%20SOAR%20Report/State%20of%20SOAR%20Report%202019.pdf)
+- [Gartner Market Guide for SOAR Solutions 2019](https://www.gartner.com/en/documents/3942064/market-guide-for-security-orchestration-automation-and-r)
+- [DFLABS Enterprise SOAR Buyers Guide 2019](https://www.infosecurityeurope.com/__novadocuments/591196?v=636930948744900000)
+- [Top 10 SOAR Solutions for 2019](https://www.em360tech.com/continuity/tech-features-featuredtech-news/top-10-soar-platforms/)
+- https://www.g2.com/categories/security-orchestration-automation-and-response-soar
+- [SOAR Vendor comparison](https://www.itcentralstation.com/categories/security-orchestration-automation-and-response-soar)
+- [The 8 Best SOAR Security Companies for 2020](https://solutionsreview.com/security-information-event-management/the-8-best-soar-security-companies/)
+
 ## Articles
 
-- [Gartner Market Guide for SOAR Solutions 2019](https://www.gartner.com/en/documents/3942064/market-guide-for-security-orchestration-automation-and-r)
 - [An OODA-driven SOC Strategy using: SIEM, SOAR and EDR](http://correlatedsecurity.com/an-ooda-driven-soc-strategy-using-siem-soar-edr/)
 - [Why a mature SIEM environment is critical for SOAR implementation](http://correlatedsecurity.com/soar-critical-success-factors/)
 - [7 Steps to Building an Incident Response Playbook](https://sbscyber.com/resources/7-steps-to-building-an-incident-response-playbook)
