@@ -50,6 +50,7 @@
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [NIST Computer Security Incident Handling Guide](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 - [Collaborative Open Playbook Standard (COPS)](https://github.com/demisto/COPS) - By Demisto
+- [RE&CT Framework](https://github.com/atc-project/atc-react) - a MITRE ATT&CK inspired framework specifically for actionable Incident Response techniques.
 
 ## Incident-Categories
 
