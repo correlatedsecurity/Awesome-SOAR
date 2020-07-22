@@ -69,7 +69,7 @@
   - **[CONFERENCE SLIDES LINKS]** 
     - Not Available
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - Not Available
+    - Not Available - [Image can be downloaded here, but requires license](https://www.ibm.com/support/fixcentral/swg/selectFixes?parent=IBM%20Security&product=ibm/Other+software/IBM+Resilient+SOAR+Platform&release=All&platform=All&function=all)
   - **[FREE LEARNING LINKS]**
     - [IBM Learning Academy - Couple of Free Courses](https://www.securitylearningacademy.com/local/navigator/index.php?level=inir01)
     - [IBM Resilient Youtube Videos](https://www.youtube.com/channel/UCwFpignv-CgRX9Dw-tbLEIA)
