@@ -22,39 +22,44 @@
 ## SOAR-Solutions
 
 #### Commercial
-- [Cortex XSOAR](https://www.demisto.com/) - Previously Demisto, now with Palo Alto Networks
+- [Cortex XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Previously Demisto, now with Palo Alto Networks
   - **[PRODUCT BLOG LINKS]**
-    - ...
+    - [Demisto Blog](https://blog.demisto.com/)
+    - [Palo Alto Blog](https://blog.paloaltonetworks.com/tag/cortex-xdr/)
   - **[WEBINAR LINKS]**
-    - ...
+    - [Cortex XSOAR Webinar Videos on Youtube](https://www.youtube.com/results?search_query=cortex+xsoar+webinar)
+    - [Demisto Webinar Videos on Youtube](https://www.youtube.com/results?search_query=demisto+webinar)
   - **[CONFERENCE SLIDES LINKS]** 
-    - ...
+    - [Palo Alto Networks Ignite Conference Videos Youtube](https://www.youtube.com/results?search_query=%22palo+alto+networks+ignite%22+xsoar)
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - ...
+    - [Cortex XSOAR 30 Day Free Community Edition](https://start.paloaltonetworks.com/sign-up-for-community-edition.html)
   - **[FREE LEARNING LINKS]**
-    - ...
+    - [Several Free Foundational eLearning Courses](https://www.paloaltonetworks.com/services/education/digital-learning)
+    - [Customer Case Studies](https://www.youtube.com/playlist?list=PLBpoVs10QWXKhrqBrb5TdlAN1wto1L8ia)
+    - [Demisto, Cortex XSOAR Youtube video playlist](https://www.youtube.com/playlist?list=PL9AMso8b1trO0WQd90Px1sJxvcfK27ZVJ)
   - **[PAID TRAINING LINKS]**
-    - ...
+    - [Palo Alto Learning Center](http://education.paloaltonetworks.com/learningcenter)
   - **[DOCUMENTATION LINKS]**
-    - ...
+    - [Cortex XSOAR Documentation](https://docs.paloaltonetworks.com/cortex/cortex-xsoar.html)
   - **[SUPPORT LINKS]**
-    - ...
+    - Not Available
   - **[USER FORUM LINKS]** 
-    - ...
+    - [Cortex XSOAR User Community](https://live.paloaltonetworks.com/t5/cortex-xsoar/ct-p/Cortex_XSOAR)
   - **[APP DEVELOPMENT LINKS]**
-    - ...
+    - [Content Developer Portal](https://xsoar.pan.dev/)
+    - [XSOAR Github](https://github.com/demisto/content)
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
-    - ...
+    - Not Available - Feature requests go through support
   - **[REDDIT COMMUNITY LINKS]**
-    - ...
+    - Not Available
   - **[YOUTUBE LINKS]**
-    - ...
+    - [XSOAR Youtube Channel](https://www.youtube.com/channel/UCPZSycGbjGoIcTF6kudEilw)
   - **[TWITTER LINKS]**
-    - ...
+    - [PAN Twitter Page](https://twitter.com/PaloAltoNtwks)
   - **[LINKEDIN LINKS]**
-    - ...
+    - [LinkedIN](https://www.linkedin.com/company/cortexbypanw/)
   - **[ONLINE CHAT GROUPS]**
-    - ...
+    - [Online Slack Community](https://start.paloaltonetworks.com/join-our-slack-community)
 - [IBM Resilient](https://www.ibm.com/my-en/marketplace/resilient-soar-platform)
   - **[PRODUCT BLOG LINKS]**
     - ...
