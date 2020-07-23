@@ -660,7 +660,7 @@
   - **[LINKEDIN LINKS]**
     - Not Available
   - **[ONLINE CHAT GROUPS]**
-    - Not Available
+    - [TheHive Gitter](https://gitter.im/TheHive-Project/TheHive)
 - [Shuffle](https://shuffler.io/)
   - **[PRODUCT BLOG LINKS]**
     - ...
