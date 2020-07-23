@@ -628,39 +628,39 @@
     - [Azure Sentinel Telegram Feed group](https://t.me/AzureSentinelSIEMFEED)
     
 #### Open-Source
-- [The Hive](https://thehive-project.org)
+- [TheHive](https://thehive-project.org)
   - **[PRODUCT BLOG LINKS]**
-    - ...
+    - [TheHive Product Blog](https://blog.thehive-project.org/)
   - **[WEBINAR LINKS]**
-    - ...
+    - [TheHive Youtube Videos](https://www.youtube.com/results?search_query=thehive+cortex)
   - **[CONFERENCE SLIDES LINKS]** 
-    - ...
+    - [TheHive Conference Youtube Videos](https://www.youtube.com/results?search_query=thehive+cortex+conference)
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - ...
+    - [TheHive is Open Source Software and completely free to download](https://github.com/TheHive-Project/TheHive)
   - **[FREE LEARNING LINKS]**
-    - ...
+    - [Free Training Material](https://github.com/TheHive-Project/TheHiveDocs/blob/master/training-material.md)
   - **[PAID TRAINING LINKS]**
-    - ...
+    - Not Available
   - **[DOCUMENTATION LINKS]**
-    - ...
+    - [TheHive Documentation](https://github.com/TheHive-Project/TheHiveDocs)
   - **[SUPPORT LINKS]**
-    - ...
+    - [Log issue at Github](https://github.com/TheHive-Project/TheHive/issues)
   - **[USER FORUM LINKS]** 
-    - ...
+    - [Google Groups for User](https://groups.google.com/a/thehive-project.org/d/forum/users)
   - **[APP DEVELOPMENT LINKS]**
-    - ...
+    - [How to write analyzers](https://github.com/TheHive-Project/CortexDocs/blob/master/api/how-to-create-an-analyzer.md)
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
-    - ...
+    - [Create feature requests are made on github issues](https://github.com/TheHive-Project/TheHive/issues)
   - **[REDDIT COMMUNITY LINKS]**
-    - ...
+    - Not Available
   - **[YOUTUBE LINKS]**
-    - ...
+    - Not Available
   - **[TWITTER LINKS]**
-    - ...
+    - [TheHive Twitter Account](https://twitter.com/thehive_project)
   - **[LINKEDIN LINKS]**
-    - ...
+    - Not Available
   - **[ONLINE CHAT GROUPS]**
-    - ...
+    - Not Available
 - [Shuffle](https://shuffler.io/)
   - **[PRODUCT BLOG LINKS]**
     - ...
