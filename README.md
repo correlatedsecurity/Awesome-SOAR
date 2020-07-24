@@ -168,37 +168,37 @@
     - Not Available
 - [Swimlane](https://swimlane.com/)
   - **[PRODUCT BLOG LINKS]**
-    - ...
+    - [Swimlane Blog](https://swimlane.com/blog/)
   - **[WEBINAR LINKS]**
-    - ...
+    - [Swimlane Webinars](https://swimlane.com/resources/events/)
   - **[CONFERENCE SLIDES LINKS]** 
-    - ...
+    - [Swimlane Conference](https://swimlane.com/resources/events/)
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - ...
+    - Not Available
   - **[FREE LEARNING LINKS]**
-    - ...
+    - [SOAR Learning Hubg](https://swimlane.com/resources/soar-learning-hub/)
   - **[PAID TRAINING LINKS]**
-    - ...
+    - [Swimlane Paid Training](https://swimlane.com/services/certification-program/)
   - **[DOCUMENTATION LINKS]**
-    - ...
+    - [Swimlane Documentation](https://swimlane.com/knowledge-center/docs/)
   - **[SUPPORT LINKS]**
-    - ...
+    - [Swimlane Support Portal](https://support.swimlane.com/support/login)
   - **[USER FORUM LINKS]** 
-    - ...
+    - [SecOps Hub User forum](https://www.secopshub.com/)
   - **[APP DEVELOPMENT LINKS]**
-    - ...
+    - [App Developer Resources](https://swimlane.com/resources/analyst-hub/)
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
-    - ...
+    - [Swimlane Support Portal for feature requests](https://support.swimlane.com/support/login)
   - **[REDDIT COMMUNITY LINKS]**
-    - ...
+    - Not Available
   - **[YOUTUBE LINKS]**
-    - ...
+    - [Swimlane Youtube](https://www.youtube.com/channel/UCs6qP3QXytOsCD1TRIw0EYg)
   - **[TWITTER LINKS]**
-    - ...
+    - [Swimlane Twitter](https://twitter.com/swimlane/)
   - **[LINKEDIN LINKS]**
-    - ...
+    - [Swimlane LinkedIN](https://www.linkedin.com/company/swimlane/)
   - **[ONLINE CHAT GROUPS]**
-    - ...
+    - Not Available
 - [Rapid7 InsightConnect](https://www.rapid7.com/products/insightconnect/)
   - **[PRODUCT BLOG LINKS]**
     - ...
@@ -741,6 +741,7 @@
 - [NIST Computer Security Incident Handling Guide](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 - [Collaborative Open Playbook Standard (COPS)](https://github.com/demisto/COPS) - By Demisto
 - [RE&CT Framework](https://github.com/atc-project/atc-react) - a MITRE ATT&CK inspired framework specifically for actionable Incident Response techniques.
+- [Integrated Adaptive Cyber Defense (IACD) Automate Framework](https://www.iacdautomate.org/)
 
 ## Incident-Categories
 
