@@ -735,11 +735,12 @@
 - [IBM Resilient Community Integrations on Github](https://github.com/ibmresilient/resilient-community-apps)
 - [Splunk Phantom Integrations on Github](https://github.com/phantomcyber/phantom-apps/tree/next/Apps)
 - [Rapid7 InsightConnect Integrations on Github](https://github.com/rapid7/insightconnect-plugins)
+- [TheHive Cortex Analyzers Github](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/analyzers)
+- [TheHive Cortex Responders Github](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/responders)
 
 ## User-Communities
 
 - [SOAR Telegram Group](http://t.me/CSOAR)
-- [List item](http://example.com)
 
 ## Market-Research
 
@@ -750,6 +751,7 @@
 - [Top Reviewed SOAR's on G2](https://www.g2.com/categories/security-orchestration-automation-and-response-soar)
 - [SOAR Vendor comparison](https://www.itcentralstation.com/categories/security-orchestration-automation-and-response-soar)
 - [The 8 Best SOAR Security Companies for 2020](https://solutionsreview.com/security-information-event-management/the-8-best-soar-security-companies/)
+- [SANS 2020 Automation and Integration Survey Results](https://www.sans.org/webcasts/2020-automation-integration-survey-results-112640)
 
 ## Articles
 
