@@ -595,6 +595,8 @@
     - ...
   - **[ONLINE CHAT GROUPS]**
     - ...
+
+#### SIEM's with SOAR included
 - [Microsoft Azure Sentinel](https://azure.microsoft.com/en-us/services/azure-sentinel/) - Logic Apps used as SOAR Functionality
   - **[PRODUCT BLOG LINKS]**
     - [Product Blog](https://aka.ms/azuresentinelblog)
@@ -698,6 +700,40 @@
     - Not Available
   - **[ONLINE CHAT GROUPS]**
     - [Online Gitter Chat](https://gitter.im/Shuffle-SOAR/community)
+- [WALKOFF](https://nsacyber.github.io/WALKOFF/)
+  - **[PRODUCT BLOG LINKS]**
+    - Not Available
+  - **[WEBINAR LINKS]**
+    - Not Available
+  - **[CONFERENCE SLIDES LINKS]** 
+    - [WALKOFF CONFERENCE SLIDES](https://github.com/nsacyber/WALKOFF/tree/master/1.%20AVENGER_CON_WORKSHOP)
+  - **[FREE/TRIAL DOWNLOAD LINKS]**
+    - [WALKOFF Open Source Github Repository](https://github.com/nsacyber/WALKOFF)
+  - **[FREE LEARNING LINKS]**
+    - [WALKOFF Toturials](https://nsacyber.github.io/WALKOFF/tutorials/build/index.html)
+  - **[PAID TRAINING LINKS]**
+    - Not Available
+  - **[DOCUMENTATION LINKS]**
+    - [WALKOFF DOCUMENTATION](https://walkoff.readthedocs.io/en/latest/)
+    - [WALKOFF DOCUMENTATION on Github](https://nsacyber.github.io/WALKOFF/documentation/build/index.html)
+  - **[SUPPORT LINKS]**
+    - [E-Mail WALKFOFF Support](walkoff@nsa.gov)
+  - **[USER FORUM LINKS]** 
+    - Not Available
+  - **[APP DEVELOPMENT LINKS]**
+    - [APP DEVELOPMENT INSTRUCTIONS](https://walkoff.readthedocs.io/en/latest/apps.html)
+  - **[REQUEST FOR ENHANCEMENTS LINKS]**
+    - [Create issue on Github](https://github.com/nsacyber/WALKOFF)
+  - **[REDDIT COMMUNITY LINKS]**
+    - Not Available
+  - **[YOUTUBE LINKS]**
+    - Not Available
+  - **[TWITTER LINKS]**
+    - Not Available
+  - **[LINKEDIN LINKS]**
+    - Not Available
+  - **[ONLINE CHAT GROUPS]**
+    - Not Available
     
 ## Global-Standards
 
@@ -730,6 +766,7 @@
 - [Playbooks by Phantom](https://github.com/phantomcyber/playbooks)
 - [Playbooks Components by Rapid7](https://github.com/rapid7/insightconnect-workflows/tree/master/workflows)
 - [Playbooks components by Microsoft Azure Sentinel](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
+- [Workflow by Shuffle](https://github.com/frikky/shuffle-workflows)
 
 ## Automation-Resources
 
@@ -738,6 +775,8 @@
 - [Rapid7 InsightConnect Integrations on Github](https://github.com/rapid7/insightconnect-plugins)
 - [TheHive Cortex Analyzers Github](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/analyzers)
 - [TheHive Cortex Responders Github](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/responders)
+- [Shuffle Apps Github](https://github.com/frikky/shuffle-apps)
+- [WALKOFF Apps Github](https://github.com/nsacyber/WALKOFF/tree/master/apps)
 
 ## User-Communities
 
