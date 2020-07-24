@@ -666,37 +666,38 @@
     - [TheHive Gitter](https://gitter.im/TheHive-Project/TheHive)
 - [Shuffle](https://shuffler.io/)
   - **[PRODUCT BLOG LINKS]**
-    - ...
+    - [Creator Medium Blog](https://medium.com/@Frikkylikeme)
   - **[WEBINAR LINKS]**
-    - ...
+    - Not Available
   - **[CONFERENCE SLIDES LINKS]** 
-    - ...
+    - Not Available
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - ...
+    - [Open Source on-prem edition](https://github.com/frikky/shuffle)
+    - [Free On-Cloud version](https://shuffler.io/register)
   - **[FREE LEARNING LINKS]**
-    - ...
+    - [Introduction blog](https://medium.com/security-operation-capybara/introducing-shuffle-an-open-source-soar-platform-part-1-58a529de7d12)
   - **[PAID TRAINING LINKS]**
-    - ...
+    - Not Available
   - **[DOCUMENTATION LINKS]**
-    - ...
+    - [Shuffle Documentation](https://shuffler.io/docs)
   - **[SUPPORT LINKS]**
-    - ...
+    - [Contact information](https://shuffler.io/contact)
   - **[USER FORUM LINKS]** 
-    - ...
+    - Not Available
   - **[APP DEVELOPMENT LINKS]**
-    - ...
+    - [Create App from Scratch](https://shuffler.io/apps/new)
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
-    - ...
+    - [Create issue on github](https://github.com/frikky/shuffle)
   - **[REDDIT COMMUNITY LINKS]**
-    - ...
+    - [Shuffle Introduction](https://www.reddit.com/r/netsec/comments/gnpn1t/introducing_shuffle_an_open_source_soar_platform/)
   - **[YOUTUBE LINKS]**
-    - ...
+    - Not Available
   - **[TWITTER LINKS]**
-    - ...
+    - [Shuffle Creator Twitter](https://twitter.com/Frikkylikeme)
   - **[LINKEDIN LINKS]**
-    - ...
+    - Not Available
   - **[ONLINE CHAT GROUPS]**
-    - ...
+    - [Online Gitter Chat](https://gitter.im/Shuffle-SOAR/community)
     
 ## Global-Standards
 
