@@ -132,37 +132,40 @@
     - Not Available
 - [Siemplify](https://www.siemplify.co/)
   - **[PRODUCT BLOG LINKS]**
-    - ...
+    - [Siemplify Blog](https://www.siemplify.co/blog/)
   - **[WEBINAR LINKS]**
-    - ...
+    - [Siemplify Webinars](https://www.siemplify.co/resources/)
   - **[CONFERENCE SLIDES LINKS]** 
-    - ...
+    - Not Available
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - ...
+    - [Siemplify Community Edition](https://www.siemplify.co/community/)
+    - [Siemplify Trial Edition](https://www.siemplify.co/cloud-trial/)
   - **[FREE LEARNING LINKS]**
-    - ...
+    - [Siemplify Video Tour](https://www.siemplify.co/security-orchestration-video-tour/)
+    - [Siemplify Resources](https://www.siemplify.co/resources/)
+    - [Siemplify Youtube](https://www.youtube.com/channel/UCM5UwCcey6pSA0z0frZqGsA)
   - **[PAID TRAINING LINKS]**
-    - ...
+    - Not Available
   - **[DOCUMENTATION LINKS]**
-    - ...
+    - [User Forum](https://community.siemplify.co/entry/signin?Target=discussions)
   - **[SUPPORT LINKS]**
-    - ...
+    - [Siemplify Support](https://www.siemplify.co/support/)
   - **[USER FORUM LINKS]** 
-    - ...
+    - [User Forum](https://community.siemplify.co/entry/signin?Target=discussions)
   - **[APP DEVELOPMENT LINKS]**
-    - ...
+    - [User Forum](https://community.siemplify.co/entry/signin?Target=discussions)
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
-    - ...
+    - [User Forum](https://community.siemplify.co/entry/signin?Target=discussions)
   - **[REDDIT COMMUNITY LINKS]**
-    - ...
+    - Not Available
   - **[YOUTUBE LINKS]**
-    - ...
+    - [Siemplify Youtube](https://www.youtube.com/channel/UCM5UwCcey6pSA0z0frZqGsA)
   - **[TWITTER LINKS]**
-    - ...
+    - [Siemplify Twitter](https://twitter.com/siemplify)
   - **[LINKEDIN LINKS]**
-    - ...
+    - [Siemplify LinkedIN](https://www.linkedin.com/company/siemplify/)
   - **[ONLINE CHAT GROUPS]**
-    - ...
+    - Not Available
 - [Swimlane](https://swimlane.com/)
   - **[PRODUCT BLOG LINKS]**
     - ...
