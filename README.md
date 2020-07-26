@@ -21,7 +21,7 @@
 
 ## SOAR-Solutions
 
-#### Commercial
+### Commercial
 - [Cortex XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Previously Demisto, now with Palo Alto Networks
   - **[PRODUCT BLOG LINKS]**
     - [Demisto Blog](https://blog.demisto.com/)
@@ -564,7 +564,7 @@
   - **[ONLINE CHAT GROUPS]**
     - ...
 
-#### SIEM's with SOAR included
+### SIEM's with SOAR included
 - [Microsoft Azure Sentinel](https://azure.microsoft.com/en-us/services/azure-sentinel/) - Logic Apps used as SOAR Functionality
   - **[PRODUCT BLOG LINKS]**
     - [Product Blog](https://aka.ms/azuresentinelblog)
@@ -599,8 +599,42 @@
   - **[ONLINE CHAT GROUPS]**
     - [Azure Sentinel Telegram group](https://t.me/AzureSentinelSIEM)
     - [Azure Sentinel Telegram Feed group](https://t.me/AzureSentinelSIEMFEED)
-    
-#### Open-Source
+- [Securonix SOAR](https://www.securonix.com/products/security-orchestration-automation-and-response/)
+  - **[PRODUCT BLOG LINKS]**
+    - [Securonix Blog](https://www.securonix.com/blog/)
+  - **[WEBINAR LINKS]**
+    - [Securonix Webinars](https://www.securonix.com/resource-type/webinars/)
+  - **[CONFERENCE SLIDES LINKS]** 
+    - [Securonix Conference Videos on Youtube](https://www.youtube.com/results?search_query=securonix+conference)
+  - **[FREE/TRIAL DOWNLOAD LINKS]**
+    - Not Available
+  - **[FREE LEARNING LINKS]**
+    - Not Available
+  - **[PAID TRAINING LINKS]**
+    - [Securonix Paid Training](https://www.securonix.com/services/training/)
+  - **[DOCUMENTATION LINKS]**
+    - [Securonix Documentation](https://documentation.securonix.com/onlinedoc/Content/Cloud/Content/Apps%20and%20Add%20ons/Securonix%20SOAR/On-Prem%20Guide/Securonix%20SOAR%20Overview.htm)
+  - **[SUPPORT LINKS]**
+    - [Securonix Support](http://support.securonix.com/support/login)
+  - **[USER FORUM LINKS]** 
+    - [Securonix User Forum](https://securonixsupport.freshdesk.com/support/login)
+  - **[APP DEVELOPMENT LINKS]**
+    - [Securonix SOAR App Development](https://documentation.securonix.com/onlinedoc/Content/Cloud/Content/Custom%20Apps/Custom%20Functions.htm)
+    - [Securonix Apps on Github](https://github.com/Securonix/CustomProcessor)
+  - **[REQUEST FOR ENHANCEMENTS LINKS]**
+    - [Securonix Feature Requests](https://securonixsupport.freshdesk.com/support/login)
+  - **[REDDIT COMMUNITY LINKS]**
+    - [Securonix on Reddit](https://www.reddit.com/user/securonix/)
+  - **[YOUTUBE LINKS]**
+    - [Securonix on Youtube](https://www.youtube.com/channel/UCN3f7HTfuAlbbfy3RCQcd8w)
+  - **[TWITTER LINKS]**
+    - [Securonix on Twitter](https://twitter.com/Securonix)
+  - **[LINKEDIN LINKS]**
+    - [Securonix LinkedIN](https://in.linkedin.com/company/securonix)
+  - **[ONLINE CHAT GROUPS]**
+    - Not Available
+
+### Open-Source
 - [TheHive](https://thehive-project.org)
   - **[PRODUCT BLOG LINKS]**
     - [TheHive Product Blog](https://blog.thehive-project.org/)
