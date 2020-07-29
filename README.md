@@ -46,15 +46,15 @@
 - [Playbooks by Societe Generale](https://github.com/certsocietegenerale/IRM/tree/master/EN)
 - [Playbooks by guardsight](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards)
 - [Playbooks (cloud) by AWS](https://github.com/aws-samples/aws-incident-response-runbooks/tree/master/runbooks)
-
-## Workflow-Resources
-
 - [Playbooks by Phantom](https://github.com/phantomcyber/playbooks)
 - [Playbooks by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/playbooks)
 - [Playbooks components by Rapid7](https://github.com/rapid7/insightconnect-workflows/tree/master/workflows)
 - [Playbooks components by Microsoft Azure Sentinel](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
 - [Playbooks components by Ayehu](https://github.com/Ayehu/custom-activities)
 - [Playbooks components by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/components)
+
+## Workflow-Resources
+
 - [Workflows by Shuffle](https://github.com/frikky/shuffle-workflows)
 - [Workflows by Ayehu](https://github.com/Ayehu/custom-workflows)
 - [Workflow Templates by Ayehu](https://github.com/Ayehu/workflow-templates)
