@@ -235,37 +235,39 @@
     - Not Available
 - [ThreatConnect](https://threatconnect.com/solution/soar-platform/)
   - **[PRODUCT BLOG LINKS]**
-    - ...
+    - [ThreatConnect Blog](https://threatconnect.com/blog/)
   - **[WEBINAR LINKS]**
-    - ...
+    - [ThreatConnect Webinars](https://threatconnect.com/resources/webinars/)
   - **[CONFERENCE SLIDES LINKS]** 
-    - ...
+    - [ThreatConnect Events](https://threatconnect.com/resources/events/)
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - ...
+    - Not Available
   - **[FREE LEARNING LINKS]**
-    - ...
+    - [ThreaConnect Learning Portal](https://training.threatconnect.com/)
+    - [ThreatConnect Resources](https://threatconnect.com/resources/)
   - **[PAID TRAINING LINKS]**
-    - ...
+    - [ThreaConnect Learning Portal](https://training.threatconnect.com/)
   - **[DOCUMENTATION LINKS]**
-    - ...
+    - [ThreatConnect Documentation](https://docs.threatconnect.com/en/latest/)
   - **[SUPPORT LINKS]**
-    - ...
+    - [ThreatConnect Support](https://training.threatconnect.com/support)
   - **[USER FORUM LINKS]** 
-    - ...
+    - [ThreatConnect Community](https://threatconnect.com/company/threatconnect-community/)
   - **[APP DEVELOPMENT LINKS]**
-    - ...
+    - [ThreatConnect Apps](https://docs.threatconnect.com/en/latest/tcex/building_apps_quickstart.html)
+    - [ThreatConnect Developer Github](https://github.com/ThreatConnect-Inc/threatconnect-developer-docs)
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
-    - ...
+    - [ThreatConnect Support](https://training.threatconnect.com/support)
   - **[REDDIT COMMUNITY LINKS]**
-    - ...
+    - [ThreatConnect Reddit](https://www.reddit.com/r/threatconnect/)
   - **[YOUTUBE LINKS]**
-    - ...
+    - [ThreatConnect Youtube](https://www.youtube.com/channel/UCPyjrU8mqhsHl0EhB7ZIfgw)
   - **[TWITTER LINKS]**
-    - ...
+    - [ThreatConnect Twitter](https://twitter.com/ThreatConnect)
   - **[LINKEDIN LINKS]**
-    - ...
+    - [ThreatConnect LinkedIN](https://www.linkedin.com/company/threatconnect-inc/)
   - **[ONLINE CHAT GROUPS]**
-    - ...
+    - [ThreatConnect Slack Channel](https://threatconnect.com/company/threatconnect-community/)
 - [ATAR](https://www.atarlabs.io/en/) - Now part of Micro Focus (ArcSight)
   - **[PRODUCT BLOG LINKS]**
     - [Atar Blog](https://www.atarlabs.io/en/blog)
@@ -633,7 +635,7 @@
     - [Securonix LinkedIN](https://in.linkedin.com/company/securonix)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-    
+   
    - [LogRhythm SOAR](https://logrhythm.com/solutions/security/security-automation-and-orchestration/)
   - **[PRODUCT BLOG LINKS]**
     - [LogRhythm Blog](https://logrhythm.com/blog/)
@@ -801,19 +803,23 @@
 
 ## Workflow-Resources
 - [Playbooks by Phantom](https://github.com/phantomcyber/playbooks)
+- [Playbooks by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/playbooks)
 - [Playbooks Components by Rapid7](https://github.com/rapid7/insightconnect-workflows/tree/master/workflows)
 - [Playbooks components by Microsoft Azure Sentinel](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
-- [Workflow by Shuffle](https://github.com/frikky/shuffle-workflows)
+- [Playbook components by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/components)
+- [Workflows by Shuffle](https://github.com/frikky/shuffle-workflows)
 
 ## Automation-Resources
 
 - [IBM Resilient Community Integrations on Github](https://github.com/ibmresilient/resilient-community-apps)
+- [ThreatConnect Integration Apps on Github](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/apps)
 - [Splunk Phantom Integrations on Github](https://github.com/phantomcyber/phantom-apps/tree/next/Apps)
 - [Rapid7 InsightConnect Integrations on Github](https://github.com/rapid7/insightconnect-plugins)
 - [TheHive Cortex Analyzers Github](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/analyzers)
 - [TheHive Cortex Responders Github](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/responders)
 - [Shuffle Apps Github](https://github.com/frikky/shuffle-apps)
 - [WALKOFF Apps Github](https://github.com/nsacyber/WALKOFF/tree/master/apps)
+- [LogRhythm Apps Github](https://github.com/LogRhythm-Labs)
 
 ## User-Communities
 
