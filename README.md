@@ -633,6 +633,40 @@
     - [Securonix LinkedIN](https://in.linkedin.com/company/securonix)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
+    
+   - [LogRhythm SOAR](https://logrhythm.com/solutions/security/security-automation-and-orchestration/)
+  - **[PRODUCT BLOG LINKS]**
+    - [LogRhythm Blog](https://logrhythm.com/blog/)
+  - **[WEBINAR LINKS]**
+    - [LogRhythm Webinars](https://logrhythm.com/webcasts/)
+  - **[CONFERENCE SLIDES LINKS]** 
+    - [LogRhythm Conference Videos on Youtube](https://www.youtube.com/c/Logrhythm/search?query=rhythmworld)
+  - **[FREE/TRIAL DOWNLOAD LINKS]**
+    - [Available Only For Network Monitors](https://logrhythm.com/products/logrhythm-netmon-freemium/)                           
+  - **[FREE LEARNING LINKS]**
+    - [Free Training Videos](https://community.logrhythm.com/t5/Videos/ct-p/Webinars#TrainingBytes)
+  - **[PAID TRAINING LINKS]**
+    - [LogRhythm Paid Training](https://logrhythm.com/services/training/logrhythm-training/)
+  - **[DOCUMENTATION LINKS]**
+    - [LogRhythm Documentation](https://onlinehelp74.logrhythm.com/|https://onlinehelp73.logrhythm.com/|https://onlinehelp72.logrhythm.com/)
+  - **[SUPPORT LINKS]**
+    - [LogRhythm Support](https://logrhythm.com/services/global-support-services/)
+  - **[USER FORUM LINKS]** 
+    - [LogRhythm User Forum](https://logrhythmcommunity.force.com/)
+  - **[APP DEVELOPMENT LINKS]**
+    - [LogRhythm Apps on Github](https://github.com/LogRhythm-Labs) 
+  - **[REQUEST FOR ENHANCEMENTS LINKS]**
+    - [LogRhythm Feature Requests](https://logrhythmcommunity.force.com/)
+  - **[REDDIT COMMUNITY LINKS]**
+    - [LogRhythm on Reddit](https://www.reddit.com/r/LogRhythm/)
+  - **[YOUTUBE LINKS]**
+    - [LogRhythm on Youtube](https://www.youtube.com/user/LogRhythmInc)
+  - **[TWITTER LINKS]**
+    - [LogRhythm on Twitter](https://twitter.com/LogRhythm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+  - **[LINKEDIN LINKS]**
+    - [LogRhythm LinkedIN](https://www.linkedin.com/company/logrhythm/)
+  - **[ONLINE CHAT GROUPS]**
+    - [LogRhythm Telegram group](https://t.me/LogRhythmSIEM)
 
 ### Open-Source
 - [TheHive](https://thehive-project.org)
