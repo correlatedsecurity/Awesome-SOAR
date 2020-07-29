@@ -303,37 +303,38 @@
     - .Not Available
 - [Ayehu](https://ayehu.com/solutions/security-operations/)
   - **[PRODUCT BLOG LINKS]**
-    - ...
+    - [Ayehu Blog](https://ayehu.com/it-process-automation-blog/)
   - **[WEBINAR LINKS]**
-    - ...
+    - [Ayehu Webinars](https://ayehu.com/resources/resource-center/)
   - **[CONFERENCE SLIDES LINKS]** 
-    - ...
+    - [Ayehu Conference resources](https://ayehu.com/about-the-company/news/)
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - ...
+    - [Ayehu 30 day free trial](https://info.ayehu.com/download-free-30-day-trial-ng)
   - **[FREE LEARNING LINKS]**
-    - ...
+    - [Ayehu Resource Center](https://ayehu.com/resources/resource-center/)
+    - [Ayehu Free Training Courses](https://ayehu.com/resources/ayehu-automation-academy/#unique)
   - **[PAID TRAINING LINKS]**
-    - ...
+    - [Ayehu paid Training Courses](https://ayehu.com/resources/ayehu-automation-academy/#unique)
   - **[DOCUMENTATION LINKS]**
-    - ...
+    - [Ayehu Documentation](https://ayehu.com/resources/user-guides/)
   - **[SUPPORT LINKS]**
-    - ...
+    - [Ayehu Support Portal](https://ayehu.com/resources/support-portal/)
   - **[USER FORUM LINKS]** 
-    - ...
+    - [Ayehu User Community](https://ayehu.com/resources/community/)
   - **[APP DEVELOPMENT LINKS]**
-    - ...
+    - [Ayehu App development](https://github.com/Ayehu/custom-activities/blob/master/CONTRIBUTING.md)
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
-    - ...
+    - [Ayehu Support Portal](https://ayehu.com/resources/support-portal/)
   - **[REDDIT COMMUNITY LINKS]**
-    - ...
+    - Not Available
   - **[YOUTUBE LINKS]**
-    - ...
+    - [Ayehu Youtube](https://www.youtube.com/user/ayehusoftware/videos)
   - **[TWITTER LINKS]**
-    - ...
+    - [Ayehu Twitter](https://twitter.com/ayehu_eyeshare)
   - **[LINKEDIN LINKS]**
-    - ...
+    - [Ayehu LinkedIN Group](https://www.linkedin.com/groups/4140672/)
   - **[ONLINE CHAT GROUPS]**
-    - ...
+    - Not Available
 - [Cyberbit](https://www.cyberbit.com/solutions/security-operations-automation-orchestration/soar-platform/)
   - **[PRODUCT BLOG LINKS]**
     - ...
@@ -635,8 +636,7 @@
     - [Securonix LinkedIN](https://in.linkedin.com/company/securonix)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-   
-   - [LogRhythm SOAR](https://logrhythm.com/solutions/security/security-automation-and-orchestration/)
+- [LogRhythm SOAR](https://logrhythm.com/solutions/security/security-automation-and-orchestration/)
   - **[PRODUCT BLOG LINKS]**
     - [LogRhythm Blog](https://logrhythm.com/blog/)
   - **[WEBINAR LINKS]**
@@ -669,6 +669,39 @@
     - [LogRhythm LinkedIN](https://www.linkedin.com/company/logrhythm/)
   - **[ONLINE CHAT GROUPS]**
     - [LogRhythm Telegram group](https://t.me/LogRhythmSIEM)
+- [RSA NetWitness Orchestrator](https://www.rsa.com/en-us/products/threat-detection-response/security-automation-orchestration/)
+  - **[PRODUCT BLOG LINKS]**
+    - ...
+  - **[WEBINAR LINKS]**
+    - ...
+  - **[CONFERENCE SLIDES LINKS]** 
+    - ...
+  - **[FREE/TRIAL DOWNLOAD LINKS]**
+    - ...
+  - **[FREE LEARNING LINKS]**
+    - ...
+  - **[PAID TRAINING LINKS]**
+    - ...
+  - **[DOCUMENTATION LINKS]**
+    - ...
+  - **[SUPPORT LINKS]**
+    - ...
+  - **[USER FORUM LINKS]** 
+    - ...
+  - **[APP DEVELOPMENT LINKS]**
+    - ...
+  - **[REQUEST FOR ENHANCEMENTS LINKS]**
+    - ...
+  - **[REDDIT COMMUNITY LINKS]**
+    - ...
+  - **[YOUTUBE LINKS]**
+    - ...
+  - **[TWITTER LINKS]**
+    - ...
+  - **[LINKEDIN LINKS]**
+    - ...
+  - **[ONLINE CHAT GROUPS]**
+    - ...
 
 ### Open-Source
 - [TheHive](https://thehive-project.org)
@@ -802,12 +835,16 @@
 - [Playbooks (cloud) by AWS](https://github.com/aws-samples/aws-incident-response-runbooks/tree/master/runbooks)
 
 ## Workflow-Resources
+
 - [Playbooks by Phantom](https://github.com/phantomcyber/playbooks)
 - [Playbooks by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/playbooks)
-- [Playbooks Components by Rapid7](https://github.com/rapid7/insightconnect-workflows/tree/master/workflows)
+- [Playbooks components by Rapid7](https://github.com/rapid7/insightconnect-workflows/tree/master/workflows)
 - [Playbooks components by Microsoft Azure Sentinel](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
-- [Playbook components by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/components)
+- [Playbooks components by Ayehu](https://github.com/Ayehu/custom-activities)
+- [Playbooks components by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/components)
 - [Workflows by Shuffle](https://github.com/frikky/shuffle-workflows)
+- [Workflows by Ayehu](https://github.com/Ayehu/custom-workflows)
+- [Workflow Templates by Ayehu](https://github.com/Ayehu/workflow-templates)
 
 ## Automation-Resources
 
