@@ -115,8 +115,13 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 # SOAR-Solutions
 
+- [Commercial](#Commercial)
+- [SIEM-with-SOAR-Included](#SIEM-with-SOAR-Included)
+- [Open-Source](#Open-Source)
+
+
 ## Commercial
-- [Cortex XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Previously Demisto, now with Palo Alto Networks
+- ###[Cortex XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Previously Demisto, now with Palo Alto Networks
   - **[PRODUCT BLOG LINKS]**
     - [Demisto Blog](https://blog.demisto.com/)
     - [Palo Alto Blog](https://blog.paloaltonetworks.com/tag/cortex-xdr/)
@@ -154,7 +159,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [LinkedIN](https://www.linkedin.com/company/cortexbypanw/)
   - **[ONLINE CHAT GROUPS]**
     - [Online Slack Community](https://start.paloaltonetworks.com/join-our-slack-community)
-- [IBM Resilient](https://www.ibm.com/my-en/marketplace/resilient-soar-platform)
+- ###[IBM Resilient](https://www.ibm.com/my-en/marketplace/resilient-soar-platform)
   - **[PRODUCT BLOG LINKS]**
     - [IBM Security Resilient Community Blog](https://community.ibm.com/community/user/security/communities/community-home/recent-community-blogs?communitykey=d2f71e8c-108e-4652-b59c-29d61af7163e&tab=recentcommunityblogsdashboard)
   - **[WEBINAR LINKS]**
@@ -190,7 +195,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [IBM Resilient LinkedIN](https://www.linkedin.com/company/resilient-an-ibm-company/)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [Splunk Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html)
+- ###[Splunk Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html)
   - **[PRODUCT BLOG LINKS]**
     - [Phantom Blog](https://www.splunk.com/en_us/blog/search.html?query=phantom)
   - **[WEBINAR LINKS]**
@@ -224,7 +229,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Phantom on LinkedIN](https://www.linkedin.com/company/phantom-cyber)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [Siemplify](https://www.siemplify.co/)
+- ###[Siemplify](https://www.siemplify.co/)
   - **[PRODUCT BLOG LINKS]**
     - [Siemplify Blog](https://www.siemplify.co/blog/)
   - **[WEBINAR LINKS]**
@@ -260,7 +265,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Siemplify LinkedIN](https://www.linkedin.com/company/siemplify/)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [Swimlane](https://swimlane.com/) - Syncurity is now acquired by Swimlane
+- ###[Swimlane](https://swimlane.com/) - Syncurity is now acquired by Swimlane
   - **[PRODUCT BLOG LINKS]**
     - [Swimlane Blog](https://swimlane.com/blog/)
   - **[WEBINAR LINKS]**
@@ -293,7 +298,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Swimlane LinkedIN](https://www.linkedin.com/company/swimlane/)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [Rapid7 InsightConnect](https://www.rapid7.com/products/insightconnect/)
+- ###[Rapid7 InsightConnect](https://www.rapid7.com/products/insightconnect/)
   - **[PRODUCT BLOG LINKS]**
     - [Rapid7 Blog](https://blog.rapid7.com/)
   - **[WEBINAR LINKS]**
@@ -327,7 +332,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Rapid7 LinkedIN](https://www.linkedin.com/company/39624)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [ThreatConnect](https://threatconnect.com/solution/soar-platform/)
+- ###[ThreatConnect](https://threatconnect.com/solution/soar-platform/)
   - **[PRODUCT BLOG LINKS]**
     - [ThreatConnect Blog](https://threatconnect.com/blog/)
   - **[WEBINAR LINKS]**
@@ -362,7 +367,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [ThreatConnect LinkedIN](https://www.linkedin.com/company/threatconnect-inc/)
   - **[ONLINE CHAT GROUPS]**
     - [ThreatConnect Slack Channel](https://threatconnect.com/company/threatconnect-community/)
-- [ATAR](https://www.atarlabs.io/en/) - Now part of Micro Focus (ArcSight)
+- ###[ATAR](https://www.atarlabs.io/en/) - Now part of Micro Focus (ArcSight)
   - **[PRODUCT BLOG LINKS]**
     - [Atar Blog](https://www.atarlabs.io/en/blog)
   - **[WEBINAR LINKS]**
@@ -395,7 +400,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Atar LinkedIN](https://www.linkedin.com/organization-guest/company/atarlabs)
   - **[ONLINE CHAT GROUPS]**
     - .Not Available
-- [Ayehu](https://ayehu.com/solutions/security-operations/)
+- ###[Ayehu](https://ayehu.com/solutions/security-operations/)
   - **[PRODUCT BLOG LINKS]**
     - [Ayehu Blog](https://ayehu.com/it-process-automation-blog/)
   - **[WEBINAR LINKS]**
@@ -429,7 +434,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Ayehu LinkedIN Group](https://www.linkedin.com/groups/4140672/)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [FortiSOAR](https://www.fortinet.com/products/fortisoar) - Previously called CyberSponse, Now part of Fortinet
+- ###[FortiSOAR](https://www.fortinet.com/products/fortisoar) - Previously called CyberSponse, Now part of Fortinet
   - **[PRODUCT BLOG LINKS]**
     - [FortiSOAR Blog](https://www.fortinet.com/blog)
   - **[WEBINAR LINKS]**
@@ -463,7 +468,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [FortiSOAR LinkedIN](https://www.linkedin.com/company/fortinet/)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [D3 SOAR](https://d3security.com/)
+- ###[D3 SOAR](https://d3security.com/)
   - **[PRODUCT BLOG LINKS]**
     - [D3 SOAR Blog](https://d3security.com/resources/blog-posts/)
   - **[WEBINAR LINKS]**
@@ -496,7 +501,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [D3 Security LinkedIN](https://www.linkedin.com/company/d3-security-management-systems)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [DFLabs IncMan SOAR](https://www.dflabs.com/platform/incman-soar/)
+- ###[DFLabs IncMan SOAR](https://www.dflabs.com/platform/incman-soar/)
   - **[PRODUCT BLOG LINKS]**
     - [DFLabs Blog](https://www.dflabs.com/resources/blog/)
   - **[WEBINAR LINKS]**
@@ -529,7 +534,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [DFLabs LinkedIN](https://www.linkedin.com/company/dflabs)
   - **[ONLINE CHAT GROUPS]**
     - Not available
-- [Resolve SOAR](https://resolve.io/solutions/security-automation-and-orchestration)
+- ###[Resolve SOAR](https://resolve.io/solutions/security-automation-and-orchestration)
   - **[PRODUCT BLOG LINKS]**
     - [Resolve SOAR Blog](https://resolve.io/blog)
   - **[WEBINAR LINKS]**
@@ -562,7 +567,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Resolve SOAR LinkedIN](https://www.linkedin.com/company/resolvesystems/)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [ServiceNow SecOps](https://www.servicenow.com/products/security-operations.html)
+- ###[ServiceNow SecOps](https://www.servicenow.com/products/security-operations.html)
   - **[PRODUCT BLOG LINKS]**
     - [ServiceNow Blog](https://blogs.servicenow.com/)
   - **[WEBINAR LINKS]**
@@ -595,7 +600,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [ServiceNow LinkedIN](https://www.linkedin.com/company/servicenow)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [SIRP SOAR](https://www.sirp.io/overview/)
+- ###[SIRP SOAR](https://www.sirp.io/overview/)
   - **[PRODUCT BLOG LINKS]**
     - [SIRP Blog](https://www.sirp.io/blog/)
   - **[WEBINAR LINKS]**
@@ -630,7 +635,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - Not Available
 
 ## SIEM-with-SOAR-Included
-- [Microsoft Azure Sentinel](https://azure.microsoft.com/en-us/services/azure-sentinel/) - Logic Apps used as SOAR Functionality
+- ###[Microsoft Azure Sentinel](https://azure.microsoft.com/en-us/services/azure-sentinel/) - Logic Apps used as SOAR Functionality
   - **[PRODUCT BLOG LINKS]**
     - [Product Blog](https://aka.ms/azuresentinelblog)
   - **[WEBINAR LINKS]**
@@ -664,7 +669,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
   - **[ONLINE CHAT GROUPS]**
     - [Azure Sentinel Telegram group](https://t.me/AzureSentinelSIEM)
     - [Azure Sentinel Telegram Feed group](https://t.me/AzureSentinelSIEMFEED)
-- [Securonix SOAR](https://www.securonix.com/products/security-orchestration-automation-and-response/)
+- ###[Securonix SOAR](https://www.securonix.com/products/security-orchestration-automation-and-response/)
   - **[PRODUCT BLOG LINKS]**
     - [Securonix Blog](https://www.securonix.com/blog/)
   - **[WEBINAR LINKS]**
@@ -698,7 +703,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Securonix LinkedIN](https://in.linkedin.com/company/securonix)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- [LogRhythm SOAR](https://logrhythm.com/solutions/security/security-automation-and-orchestration/)
+- ###[LogRhythm SOAR](https://logrhythm.com/solutions/security/security-automation-and-orchestration/)
   - **[PRODUCT BLOG LINKS]**
     - [LogRhythm Blog](https://logrhythm.com/blog/)
   - **[WEBINAR LINKS]**
@@ -731,7 +736,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [LogRhythm LinkedIN](https://www.linkedin.com/company/logrhythm/)
   - **[ONLINE CHAT GROUPS]**
     - [LogRhythm Telegram group](https://t.me/LogRhythmSIEM)
-- [RSA NetWitness Orchestrator](https://www.rsa.com/en-us/products/threat-detection-response/security-automation-orchestration/) - Based off Demisto or ThreatConnect
+- ###[RSA NetWitness Orchestrator](https://www.rsa.com/en-us/products/threat-detection-response/security-automation-orchestration/) - Based off Demisto or ThreatConnect
   - **[PRODUCT BLOG LINKS]**
     - [RSA NetWitness Orchestrator Blog](https://www.rsa.com/en-us/blog)
   - **[WEBINAR LINKS]**
@@ -766,7 +771,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - Not Available
 
 ## Open-Source
-- [TheHive](https://thehive-project.org)
+- ###[TheHive](https://thehive-project.org)
   - **[PRODUCT BLOG LINKS]**
     - [TheHive Product Blog](https://blog.thehive-project.org/)
   - **[WEBINAR LINKS]**
@@ -799,7 +804,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - Not Available
   - **[ONLINE CHAT GROUPS]**
     - [TheHive Gitter](https://gitter.im/TheHive-Project/TheHive)
-- [Shuffle](https://shuffler.io/)
+- ###[Shuffle](https://shuffler.io/)
   - **[PRODUCT BLOG LINKS]**
     - [Creator Medium Blog](https://medium.com/@Frikkylikeme)
   - **[WEBINAR LINKS]**
@@ -833,7 +838,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - Not Available
   - **[ONLINE CHAT GROUPS]**
     - [Online Gitter Chat](https://gitter.im/Shuffle-SOAR/community)
-- [WALKOFF](https://nsacyber.github.io/WALKOFF/)
+- ###[WALKOFF](https://nsacyber.github.io/WALKOFF/)
   - **[PRODUCT BLOG LINKS]**
     - Not Available
   - **[WEBINAR LINKS]**
