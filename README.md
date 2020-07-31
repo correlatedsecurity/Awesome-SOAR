@@ -18,6 +18,9 @@
 - [Presentations](#Presentations)
 - [Training](#Training)
 - [SOAR-Solutions](#SOAR-Solutions)
+    - [Commercial](#Commercial)
+    - [SIEM-with-SOAR-Included](SIEM-with-SOAR-Included)
+    - [Open-Source](#Open-Source)
     
 ## Global-Standards
 
@@ -110,9 +113,9 @@
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-## SOAR-Solutions
+# SOAR-Solutions
 
-### Commercial
+## Commercial
 - [Cortex XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Previously Demisto, now with Palo Alto Networks
   - **[PRODUCT BLOG LINKS]**
     - [Demisto Blog](https://blog.demisto.com/)
@@ -626,7 +629,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
   - **[ONLINE CHAT GROUPS]**
     - Not Available
 
-### SIEM's with SOAR included
+## SIEM-with-SOAR-Included
 - [Microsoft Azure Sentinel](https://azure.microsoft.com/en-us/services/azure-sentinel/) - Logic Apps used as SOAR Functionality
   - **[PRODUCT BLOG LINKS]**
     - [Product Blog](https://aka.ms/azuresentinelblog)
@@ -762,7 +765,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
   - **[ONLINE CHAT GROUPS]**
     - Not Available
 
-### Open-Source
+## Open-Source
 - [TheHive](https://thehive-project.org)
   - **[PRODUCT BLOG LINKS]**
     - [TheHive Product Blog](https://blog.thehive-project.org/)
