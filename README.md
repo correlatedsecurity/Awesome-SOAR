@@ -594,37 +594,37 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - Not Available
 - [SIRP SOAR](https://www.sirp.io/overview/)
   - **[PRODUCT BLOG LINKS]**
-    - ...
+    - [SIRP Blog](https://www.sirp.io/blog/)
   - **[WEBINAR LINKS]**
-    - ...
+    - [SIRP Webinars](https://www.sirp.io/resources/)
   - **[CONFERENCE SLIDES LINKS]** 
-    - ...
+    - [SIRP Webinars](https://www.sirp.io/resources/)
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - ...
+    - .Not Available..
   - **[FREE LEARNING LINKS]**
-    - ...
+    - Not Available
   - **[PAID TRAINING LINKS]**
-    - ...
+    - Not Available
   - **[DOCUMENTATION LINKS]**
-    - ...
+    - Not Available
   - **[SUPPORT LINKS]**
-    - ...
+    - Not Available
   - **[USER FORUM LINKS]** 
-    - ...
+    - Not Available
   - **[APP DEVELOPMENT LINKS]**
-    - ...
+    - Not Available
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
-    - ...
+    - Not Available
   - **[REDDIT COMMUNITY LINKS]**
-    - ...
+    - Not Available
   - **[YOUTUBE LINKS]**
-    - ...
+    - [SIRP Youtube](https://www.youtube.com/channel/UCsfVsg-908RA34StmRKfR6Q)
   - **[TWITTER LINKS]**
-    - ...
+    - [SIRP Twitter](https://twitter.com/sirp_io)
   - **[LINKEDIN LINKS]**
-    - ...
+    - [SIRP LinkedIN](http://linkedin.com/company/13684515)
   - **[ONLINE CHAT GROUPS]**
-    - ...
+    - Not Available
 
 ### SIEM's with SOAR included
 - [Microsoft Azure Sentinel](https://azure.microsoft.com/en-us/services/azure-sentinel/) - Logic Apps used as SOAR Functionality
