@@ -561,27 +561,27 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - Not Available
 - [ServiceNow SecOps](https://www.servicenow.com/products/security-operations.html)
   - **[PRODUCT BLOG LINKS]**
-    - ...
+    - [ServiceNow Blog](https://blogs.servicenow.com/)
   - **[WEBINAR LINKS]**
-    - ...
+    - [ServiceNow Secops Webinars](https://www.servicenow.com/events.html#servicenow%25products/security-operations)
   - **[CONFERENCE SLIDES LINKS]** 
-    - ...
+    - [ServiceNow Knowledge](https://knowledge.servicenow.com/)
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - ...
+    - Not Available
   - **[FREE LEARNING LINKS]**
-    - ...
+    - Not Available
   - **[PAID TRAINING LINKS]**
-    - ...
+    - [ServiceNow SecOps Paid Training](https://www.servicenow.com/services/training-and-certification/security-operations.html)
   - **[DOCUMENTATION LINKS]**
-    - ...
+    - [ServiceNow SecOps Documentation](https://docs.servicenow.com/bundle/madrid-security-management/page/product/planning-and-policy/concept/c_SecurityManagement.html)
   - **[SUPPORT LINKS]**
-    - ...
+    - [ServiceNow Support](https://www.servicenow.com/support/contact-support.html)
   - **[USER FORUM LINKS]** 
-    - ...
+    - [ServiceNow Secops User Forum](https://community.servicenow.com/community?id=community_forum&sys_id=be299a2ddbd897c068c1fb651f9619bb)
   - **[APP DEVELOPMENT LINKS]**
-    - ...
+    - [ServiceNow Secops integration](https://docs.servicenow.com/bundle/istanbul-security-management/page/product/security-operations-integrations/concept/c_IntegrationWritingGuidelines.html)
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
-    - ...
+    - [ServiceNow Support](https://www.servicenow.com/support/contact-support.html)
   - **[REDDIT COMMUNITY LINKS]**
     - [ServiceNow Reddit Community](https://www.reddit.com/r/servicenow/)
   - **[YOUTUBE LINKS]**
