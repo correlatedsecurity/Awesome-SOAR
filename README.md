@@ -728,39 +728,39 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [LogRhythm LinkedIN](https://www.linkedin.com/company/logrhythm/)
   - **[ONLINE CHAT GROUPS]**
     - [LogRhythm Telegram group](https://t.me/LogRhythmSIEM)
-- [RSA NetWitness Orchestrator](https://www.rsa.com/en-us/products/threat-detection-response/security-automation-orchestration/)
+- [RSA NetWitness Orchestrator](https://www.rsa.com/en-us/products/threat-detection-response/security-automation-orchestration/) - Based off Demisto or ThreatConnect
   - **[PRODUCT BLOG LINKS]**
-    - ...
+    - [RSA NetWitness Orchestrator Blog](https://www.rsa.com/en-us/blog)
   - **[WEBINAR LINKS]**
-    - ...
+    - [RSA NetWitness Orchestrator Webinars](https://www.rsa.com/en-us/company/webinars)
   - **[CONFERENCE SLIDES LINKS]** 
-    - ...
+    - [RSA Conference presentations](https://community.rsa.com/community/charge)
   - **[FREE/TRIAL DOWNLOAD LINKS]**
-    - ...
+    - Not Available
   - **[FREE LEARNING LINKS]**
-    - ...
+    - [RSA Netwitness Orchestrator Training](https://community.rsa.com/docs/DOC-93857)
   - **[PAID TRAINING LINKS]**
-    - ...
+    - [RSA Netwitness Orchestrator Training](https://community.rsa.com/community/training/netwitness)
   - **[DOCUMENTATION LINKS]**
-    - ...
+    - [RSA NetWitness Orchestrator Documentation](https://community.rsa.com/community/products/netwitness/orchestrator)
   - **[SUPPORT LINKS]**
-    - ...
+    - [RSA Support](https://community.rsa.com/community/support)
   - **[USER FORUM LINKS]** 
-    - ...
+    - [RSA Support](https://community.rsa.com/community/support)
   - **[APP DEVELOPMENT LINKS]**
-    - ...
+    - Not Available - See ThreatConnect and Demisto for development
   - **[REQUEST FOR ENHANCEMENTS LINKS]**
-    - ...
+    - [RSA Support](https://community.rsa.com/community/support)
   - **[REDDIT COMMUNITY LINKS]**
-    - ...
+    - Not Available
   - **[YOUTUBE LINKS]**
-    - ...
+    - [RSA Youtube](https://www.youtube.com/user/SecuredByRSA)
   - **[TWITTER LINKS]**
-    - ...
+    - [RSA Twitter](https://twitter.com/RSAsecurity)
   - **[LINKEDIN LINKS]**
-    - ...
+    - [RSA Linkedin](https://www.linkedin.com/company/rsa-the-security-division-of-dell-technologies/)
   - **[ONLINE CHAT GROUPS]**
-    - ...
+    - Not Available
 
 ### Open-Source
 - [TheHive](https://thehive-project.org)
