@@ -19,7 +19,7 @@
 - [Training](#Training)
 - [SOAR-Solutions](#SOAR-Solutions)
     - [Commercial](#Commercial)
-    - [SIEM-with-SOAR-Included](SIEM-with-SOAR-Included)
+    - [SIEM-with-SOAR-Included](#SIEM-with-SOAR-Included)
     - [Open-Source](#Open-Source)
     
 ## Global-Standards
