@@ -96,6 +96,7 @@
 - [7 Steps to Building an Incident Response Playbook](https://sbscyber.com/resources/7-steps-to-building-an-incident-response-playbook)
 - [8 Ways Playbooks Enhance Incident Response](https://www.sirp.io/blog/8-ways-playbooks-enhance-incident-response/)
 - [Top Security Orchestration Use Cases](https://www.infosecurityeurope.com/__novadocuments/544304?v=636821081002000000)
+- [Security orchestration and automation checklist](https://www.helpnetsecurity.com/2019/08/05/security-orchestration-and-automation-checklist/)
 
 ## Presentations
 
@@ -195,7 +196,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [IBM Resilient LinkedIN](https://www.linkedin.com/company/resilient-an-ibm-company/)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
-- ###[Splunk Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html)
+- [Splunk Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html)
   - **[PRODUCT BLOG LINKS]**
     - [Phantom Blog](https://www.splunk.com/en_us/blog/search.html?query=phantom)
   - **[WEBINAR LINKS]**
