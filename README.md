@@ -90,6 +90,7 @@
 - [SOAR Vendor comparison](https://www.itcentralstation.com/categories/security-orchestration-automation-and-response-soar)
 - [The 8 Best SOAR Security Companies for 2020](https://solutionsreview.com/security-information-event-management/the-8-best-soar-security-companies/)
 - [SANS 2020 Automation and Integration Survey Results](https://www.sans.org/webcasts/2020-automation-integration-survey-results-112640)
+- [PeerTalk™ Panel: SOAR Trends in 2020 and Beyond](https://www.peerlyst.com/posts/peertalk-tm-panel-soar-trends-in-2020-and-beyond-peerlyst)
 
 ## Articles
 
