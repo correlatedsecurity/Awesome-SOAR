@@ -28,9 +28,10 @@
 
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [NIST Computer Security Incident Handling Guide](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
-- [Collaborative Open Playbook Standard (COPS)](https://github.com/demisto/COPS) - By Demisto
+- [Collaborative Open Playbook Standard (COPS)](https://github.com/demisto/COPS) - by Demisto
 - [RE&CT Framework](https://github.com/atc-project/atc-react) - a MITRE ATT&CK inspired framework specifically for actionable Incident Response techniques.
 - [Integrated Adaptive Cyber Defense (IACD) Automate Framework](https://www.iacdautomate.org/)
+- [OASIS Collaborative Automated Course of Action Operations (CACAO) for Cyber Security](https://www.oasis-open.org/committees/cacao) - a standards effort to define a common language for course of action playbooks
 
 ## Incident-Categories
 
