@@ -52,30 +52,27 @@
 - [Playbooks by Societe Generale](https://github.com/certsocietegenerale/IRM/tree/master/EN)
 - [Playbooks by guardsight](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards)
 - [Playbooks (cloud) by AWS](https://github.com/aws-samples/aws-incident-response-runbooks/tree/master/runbooks)
-- [Playbooks by Phantom](https://github.com/phantomcyber/playbooks)
-- [Playbooks by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/playbooks)
-- [Playbooks components by Rapid7](https://github.com/rapid7/insightconnect-workflows/tree/master/workflows)
-- [Playbooks components by Microsoft Azure Sentinel](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
-- [Playbooks components by Ayehu](https://github.com/Ayehu/custom-activities)
-- [Playbooks components by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/components)
-
-## Workflow-Resources
-
-- [Workflows by Shuffle](https://github.com/frikky/shuffle-workflows)
-- [Workflows by Ayehu](https://github.com/Ayehu/custom-workflows)
-- [Workflow Templates by Ayehu](https://github.com/Ayehu/workflow-templates)
 
 ## Automation-Resources
 
-- [IBM Resilient Community Integrations on Github](https://github.com/ibmresilient/resilient-community-apps)
-- [ThreatConnect Integration Apps on Github](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/apps)
-- [Splunk Phantom Integrations on Github](https://github.com/phantomcyber/phantom-apps/tree/next/Apps)
-- [Rapid7 InsightConnect Integrations on Github](https://github.com/rapid7/insightconnect-plugins)
-- [TheHive Cortex Analyzers Github](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/analyzers)
-- [TheHive Cortex Responders Github](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/responders)
-- [Shuffle Apps Github](https://github.com/frikky/shuffle-apps)
-- [WALKOFF Apps Github](https://github.com/nsacyber/WALKOFF/tree/master/apps)
-- [LogRhythm Apps Github](https://github.com/LogRhythm-Labs)
+- [Playbooks Automation components by Phantom](https://github.com/phantomcyber/playbooks)
+- [Playbooks Automation components part 2 by Phantom](https://github.com/phantomcyber/phantom-apps/tree/next/Apps)
+- [Playbooks Automation components by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/playbooks)
+- [Playbooks Automation components part 2 by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/apps)
+- [Playbooks Automation components by Rapid7](https://github.com/rapid7/insightconnect-workflows/tree/master/workflows)
+- [Playbooks Automation components by Microsoft Azure Sentinel](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
+- [Playbooks Automation components by Ayehu](https://github.com/Ayehu/custom-activities)
+- [Playbooks Automation components part 2 by Ayehu](https://github.com/Ayehu/custom-workflows)
+- [Playbooks Automation components part 3 by Ayehu](https://github.com/Ayehu/workflow-templates)
+- [Playbooks Automation components by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/components)
+- [Playbooks Automation components by Shuffle](https://github.com/frikky/shuffle-workflows)
+- [Playbooks Automation components part 2 by Shuffle](https://github.com/frikky/shuffle-apps)
+- [Playbooks Automation components by IBM Resilient Community](https://github.com/ibmresilient/resilient-community-apps)
+- [Playbooks Automation components by Rapid7](https://github.com/rapid7/insightconnect-plugins)
+- [Playbooks Automation components by TheHive Cortex](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/analyzers)
+- [Playbooks Automation components part 2 by TheHive Cortex](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/responders)
+- [Playbooks Automation components by WALKOFF](https://github.com/nsacyber/WALKOFF/tree/master/apps)
+- [Playbooks Automation components by LogRhythm](https://github.com/LogRhythm-Labs)
 
 ## User-Communities
 
