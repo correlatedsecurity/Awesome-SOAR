@@ -635,6 +635,39 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [SIRP LinkedIN](http://linkedin.com/company/13684515)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
+- [Tines](https://tines.io)
+  - **[PRODUCT BLOG LINKS]**
+    - [Tines Blog](https://www.tines.io/blog/)
+  - **[WEBINAR LINKS]**
+    - Not Available
+  - **[CONFERENCE SLIDES LINKS]** 
+    - Not Available
+  - **[FREE/TRIAL DOWNLOAD LINKS]**
+    - [Tines - Free Community Edition](https://www.tines.io/pricing)
+  - **[FREE LEARNING LINKS]**
+    - Not Available
+  - **[PAID TRAINING LINKS]**
+    - Not Available
+  - **[DOCUMENTATION LINKS]**
+    - [Tines Docs](https://docs.tines.io/)
+  - **[SUPPORT LINKS]**
+    - Not Available
+  - **[USER FORUM LINKS]** 
+    - Not Available
+  - **[APP DEVELOPMENT LINKS]**
+    - Not Available
+  - **[REQUEST FOR ENHANCEMENTS LINKS]**
+    - Not Available
+  - **[REDDIT COMMUNITY LINKS]**
+    - [Tines Reddit Account](https://www.reddit.com/user/tinesio/)
+  - **[YOUTUBE LINKS]**
+    - [Tines Youtube](https://www.youtube.com/channel/UC9b5oEph_6q6p1NV3FrTQIA)
+  - **[TWITTER LINKS]**
+    - [@tines_io](https://twitter.com/tines_io)
+  - **[LINKEDIN LINKS]**
+    - [Tines LinkedIn](http://linkedin.com/company/tines-io)
+  - **[ONLINE CHAT GROUPS]**
+    - Not Available
 
 ## SIEM-with-SOAR-Included
 - [Microsoft Azure Sentinel](https://azure.microsoft.com/en-us/services/azure-sentinel/) - Logic Apps used as SOAR Functionality
