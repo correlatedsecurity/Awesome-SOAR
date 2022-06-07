@@ -52,6 +52,7 @@
 - [Playbooks by Societe Generale](https://github.com/certsocietegenerale/IRM/tree/master/EN)
 - [Playbooks by guardsight](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards)
 - [Playbooks (cloud) by AWS](https://github.com/aws-samples/aws-incident-response-runbooks/tree/master/runbooks)
+- [Playbooks by Cyware](https://cyware.com/use-case)
 
 ## Automation-Resources
 
