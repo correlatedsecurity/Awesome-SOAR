@@ -52,6 +52,7 @@
 - [Playbooks by Societe Generale](https://github.com/certsocietegenerale/IRM/tree/master/EN)
 - [Playbooks by guardsight](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards)
 - [Playbooks (cloud) by AWS](https://github.com/aws-samples/aws-incident-response-runbooks/tree/master/runbooks)
+- [Playbooks by Cyware](https://cyware.com/use-case)
 
 ## Automation-Resources
 
@@ -123,6 +124,20 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 
 ## Commercial
+
+- [Cyware Orchestrate](https://cyware.com/cyware-orchestrate)
+  - **[PRODUCT BLOG LINKS]**
+    - [Cyware Blog](https://cyware.com/blog)
+  - **[INSIGHTS]**
+    - [Cyware Insights](https://cyware.com/insights)
+  - **[THREAT INTELLIGENCE FEEDS]** 
+    - [Cyware Threat Intel Feeds](https://cyware.com/community/ctix-feeds)
+  - **[CYWARE COMMUNITY CONTRIBUTIONS]**
+    - [Cyware Communinty Contributions](https://cyware.com/cyware-community)
+  - **[TWITTER LINKS]**
+    - [PAN Twitter Page](https://twitter.com/CywareCo)
+  - **[LINKEDIN LINKS]**
+    - [LinkedIN](https://www.linkedin.com/company/cyware/)
 - [Cortex XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Previously Demisto, now with Palo Alto Networks
   - **[PRODUCT BLOG LINKS]**
     - [Demisto Blog](https://blog.demisto.com/)
