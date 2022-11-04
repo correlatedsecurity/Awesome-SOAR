@@ -874,3 +874,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - Not Available
   - **[ONLINE CHAT GROUPS]**
     - Not Available
+- [catalyst](https://github.com/SecurityBrewery/catalyst)
