@@ -57,6 +57,7 @@
 
 - [Playbooks Automation components by Phantom](https://github.com/phantomcyber/playbooks)
 - [Playbooks Automation components part 2 by Phantom](https://github.com/phantomcyber/phantom-apps/tree/next/Apps)
+- [Playbooks Automation components by DTonomy](https://doc.dtonomy.com/playbooks.html)
 - [Playbooks Automation components by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/playbooks)
 - [Playbooks Automation components part 2 by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/apps)
 - [Playbooks Automation components by Rapid7](https://github.com/rapid7/insightconnect-workflows/tree/master/workflows)
@@ -161,6 +162,39 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [LinkedIN](https://www.linkedin.com/company/cortexbypanw/)
   - **[ONLINE CHAT GROUPS]**
     - [Online Slack Community](https://start.paloaltonetworks.com/join-our-slack-community)
+- [DTonomy SOAR](https://www.dtonomy.com/dtonomy-air-enterprise/)
+  - **[PRODUCT BLOG LINKS]**
+    - [DTonomy Blog](https://www.dtonomy.com/blog/)
+  - **[WEBINAR LINKS]**
+    - Not Available
+  - **[CONFERENCE SLIDES LINKS]** 
+    - Not Available
+  - **[FREE/TRIAL DOWNLOAD LINKS]**
+    - [DTonomy Community](https://www.dtonomy.com/pricing/)
+  - **[FREE LEARNING LINKS]**
+    - [DTonomy Quick Tutorial](https://tutorial.dtonomy.com/)
+  - **[PAID TRAINING LINKS]**
+    - Not Available
+  - **[DOCUMENTATION LINKS]**
+    - [DTonomy Doc](https://doc.dtonomy.com/)
+  - **[SUPPORT LINKS]**
+    - Not Available
+  - **[USER FORUM LINKS]** 
+    - Not Available
+  - **[APP DEVELOPMENT LINKS]**
+    - Not Available
+  - **[REQUEST FOR ENHANCEMENTS LINKS]**
+    - [Request Enhancement Link](https://calendly.com/dtonomy/30min?month=2023-01)
+  - **[REDDIT COMMUNITY LINKS]**
+    - Not Available
+  - **[YOUTUBE LINKS]**
+    - [DTonomy Youtube](https://www.youtube.com/@dtonomy8635)
+  - **[TWITTER LINKS]**
+    - [DTonomy Twitter](https://twitter.com/Peter_DTonomy)
+  - **[LINKEDIN LINKS]**
+    - [DTonomy LinkedIN](https://www.linkedin.com/company/dtonomy/)
+  - **[ONLINE CHAT GROUPS]**
+    - [DTonomy Slack](https://join.slack.com/t/dtonomy/shared_invite/zt-dpvdz946-NgEYwW~aUhwTosER6SiK~w)
 - [IBM Resilient](https://www.ibm.com/my-en/marketplace/resilient-soar-platform)
   - **[PRODUCT BLOG LINKS]**
     - [IBM Security Resilient Community Blog](https://community.ibm.com/community/user/security/communities/community-home/recent-community-blogs?communitykey=d2f71e8c-108e-4652-b59c-29d61af7163e&tab=recentcommunityblogsdashboard)
