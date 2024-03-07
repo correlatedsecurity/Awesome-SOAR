@@ -484,7 +484,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
   - **[PAID TRAINING LINKS]**
     - Not Available
   - **[DOCUMENTATION LINKS]**
-    - Not Available
+    - [D3 Security Tech Docs](https://docs.d3security.com/)
   - **[SUPPORT LINKS]**
     - Not Available
   - **[USER FORUM LINKS]** 
