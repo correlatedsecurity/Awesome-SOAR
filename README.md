@@ -51,7 +51,7 @@
 - [Top 5 Playbooks by Ayehu](https://ayehu.com/cyber-security-incident-response-automation/top-5-cyber-security-incident-response-playbooks/)
 - [Playbooks by Societe Generale](https://github.com/certsocietegenerale/IRM/tree/master/EN)
 - [Playbooks by guardsight](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards)
-- [Playbooks (cloud) by AWS](https://github.com/aws-samples/aws-incident-response-runbooks/tree/master/runbooks)
+- [Playbooks (cloud) by AWS](https://github.com/aws-samples/aws-incident-response-runbooks/tree/master/playbooks)
 
 ## Automation-Resources
 
