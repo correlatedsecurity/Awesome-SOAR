@@ -368,6 +368,37 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Rapid7 LinkedIN](https://www.linkedin.com/company/39624)
   - **[ONLINE CHAT GROUPS]**
     - Not Available
+- [RapidForge](https://www.rapidforge.io/)
+  - **[PRODUCT BLOG LINKS]**
+    - [RapidForge use cases](https://rapidforge.io/use_cases/)
+  - **[WEBINAR LINKS]**
+    - [Not Available
+  - **[CONFERENCE SLIDES LINKS]** 
+    - Not Available
+  - **[FREE DOWNLOAD LINKS]**
+    - [Free to use](https://github.com/rapidforge-io/release)
+  - **[PAID TRAINING LINKS]**
+    - Not Available
+  - **[DOCUMENTATION LINKS]**
+    - [RapidForge Documentation](https://rapidforge.io/install-config/)
+  - **[SUPPORT LINKS]**
+    - Not Available
+  - **[USER FORUM LINKS]** 
+    - Not Available
+  - **[APP DEVELOPMENT LINKS]**
+    - Not Available
+  - **[REQUEST FOR ENHANCEMENTS LINKS]**
+    - Not Available
+  - **[REDDIT COMMUNITY LINKS]**
+    - Not Available
+  - **[YOUTUBE LINKS]**
+    - [RapidForge youtube](https://www.youtube.com/@RapidForge-k4g/videos)
+  - **[TWITTER LINKS]**
+    - Not Available
+  - **[LINKEDIN LINKS]**
+    - Not Available
+  - **[ONLINE CHAT GROUPS]**
+    - Not Available
 - [ThreatConnect](https://threatconnect.com/solution/soar-platform/)
   - **[PRODUCT BLOG LINKS]**
     - [ThreatConnect Blog](https://threatconnect.com/blog/)
