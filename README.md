@@ -44,6 +44,7 @@
 - [Incident Response Flowchart](http://www.asu.edu/courses/oasis/Security/Incident_Response_Flowchart.pdf)
 - [Critical Infrastructure Cyber Incident Management Process](https://www.publicpower.org/system/files/documents/Public-Power-Cyber-Incident-Response-Playbook.pdf)
 - [SANS Incident Handler's Handbook](https://www.sans.org/reading-room/whitepapers/incident/paper/33901)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security orchestration, automated response, and threat analysis agents. MIT licensed.
 
 ## Playbooks-Resources
 
